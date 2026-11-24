@@ -51,8 +51,9 @@ We've completely overhauled the local setup to be incredibly developer-friendly.
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/Tribal-Chief-001/Ayush-Portal-EPICS.git
-cd ayush-portal
+git clone https://github.com/Saksham0503/Ayush-Portal-Project.git
+cd Ayush-Portal-Project
+cd Ayush-Portal-EPICS-main
 npm install
 ```
 
