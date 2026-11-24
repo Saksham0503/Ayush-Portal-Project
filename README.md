@@ -53,7 +53,6 @@ We've completely overhauled the local setup to be incredibly developer-friendly.
 ```bash
 git clone https://github.com/Saksham0503/Ayush-Portal-Project.git
 cd Ayush-Portal-Project
-cd Ayush-Portal-EPICS-main
 npm install
 ```
 
